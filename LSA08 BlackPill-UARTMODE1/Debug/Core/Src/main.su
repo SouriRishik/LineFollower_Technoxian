@@ -1,0 +1,15 @@
+../Drivers/CMSIS/Include/core_cm4.h:2064:26:ITM_SendChar	16	static,ignoring_inline_asm
+../Core/Src/main.c:92:6:send_to_lsa	24	static
+../Core/Src/main.c:103:5:_write	32	static
+../Core/Src/main.c:113:9:line_data	16	static
+../Core/Src/main.c:123:5:process_byte	32	static
+../Core/Src/main.c:142:5:junction_data	16	static
+../Core/Src/main.c:147:6:setMotorSpeed	24	static
+../Core/Src/main.c:173:6:computePID	32	static
+../Core/Src/main.c:228:5:main	24	static
+../Core/Src/main.c:398:6:SystemClock_Config	88	static
+../Core/Src/main.c:441:13:MX_TIM2_Init	64	static
+../Core/Src/main.c:496:13:MX_TIM3_Init	64	static
+../Core/Src/main.c:559:13:MX_USART1_UART_Init	8	static
+../Core/Src/main.c:590:13:MX_GPIO_Init	40	static
+../Core/Src/main.c:638:6:Error_Handler	4	static,ignoring_inline_asm
